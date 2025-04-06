@@ -1,0 +1,7 @@
+@tailwind utilities;
+@import "tailwindcss";
+@import "flowbite";
+
+* {
+  font-family: "Reem Kufi", sans-serif;
+}
